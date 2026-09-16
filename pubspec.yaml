@@ -9,7 +9,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  signals: ^7.1.0
-  flutter_hooks: ^0.21.3+1
-  lucide_icons_flutter: ^3.1.15
-
+  path: ^1.9.1
+  path_provider: ^2.1.6
+  sprintf: ^7.0.0
+  hashlib: ^2.4.2
